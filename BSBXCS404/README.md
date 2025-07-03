@@ -44,7 +44,6 @@
 
 ---
 ## [training.gov.au](https://training.gov.au) 
-#### (As of 17 June 2015)
 ---
 
 
